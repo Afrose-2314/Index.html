@@ -99,7 +99,7 @@
         </div>
 
         <div class="resume">
-            <a href="AFROSE BANU_20250304_220356_0000.pdf" download>Download CV</a>
+            <a href="Screenshot_2025-03-06-19-49-06-787_com.microsoft.office.word.jpg" download>Download CV</a>
         </div>
     </div>
 
